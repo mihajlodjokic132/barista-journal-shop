@@ -7,7 +7,7 @@
     "affiliateURL": "https://a.co/d/0h2G882w",
     "category": "equipment",
     "priority": 0,
-    "topDeal": true
+    "topDeal": null
   },
   {
     "id": "la-colombe-lyon",
@@ -25,7 +25,8 @@
     "imageURL": "https://m.media-amazon.com/images/I/71J9jGzaTyL._AC_SX679_.jpg",
     "affiliateURL": "https://a.co/d/08dccUUG",
     "category": "miscellaneous",
-    "priority": 2
+    "priority": 2,
+    "topDeal": null
   },
   {
     "id": "product-1773683151096",
@@ -35,7 +36,7 @@
     "affiliateURL": "https://www.amazon.com/MIAMIO-Cappuccino-Espresso-Americano-Collection/dp/B0CJVG2MHP/ref=sr_1_11?dib=eyJ2IjoiMSJ9.-6SH0iyq576Uew2c_2msNJuS3wH0DoL8kvObdrvz7o3LDqbQrINumbzmJmmuA8k-M1n2bX0R8jU_5JjBjX8pOm6ZijONbOrHhZblLaCSkWycbdGZZZhPT_uCFl1E9bcq2de02g8j066qt2W_ZgQ968XeZHJ-UB9JPz9nZualzmWkUpjk2eYIz1PmhFEkOkHUqMCKfuwsNyrS7dJfL-ky4vPe0IfepkSHAg39ceuSkHI.xl4HipVdpkcpJhRoyuK77vf0ZNKCWy6PtQgMIc547XE&dib_tag=se&keywords=latte%2Bcup%2B12%2Boz&qid=1773681392&refinements=p_36%3A2700-&rnid=386465011&sr=8-11&th=1",
     "category": "miscellaneous",
     "priority": 999,
-    "topDeal": null
+    "topDeal": true
   },
   {
     "id": "product-1773683937278",
