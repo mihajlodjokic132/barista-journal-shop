@@ -1,5 +1,15 @@
 [
   {
+    "id": "coffeezone-latte-cups",
+    "title": "Coffeezone Barista Latte Cups (Set of 6)",
+    "description": "Vintage 12oz ceramic cups with professional round bottom for latte art. Thick-walled for heat retention, microwave & dishwasher safe.",
+    "imageURL": "https://m.media-amazon.com/images/I/71aGru4cwoL._AC_SX679_.jpg",
+    "affiliateURL": "https://a.co/d/0h2G882w",
+    "category": "equipment",
+    "priority": 0,
+    "topDeal": true
+  },
+  {
     "id": "la-colombe-lyon",
     "title": "La Colombe Lyon Whole Bean Coffee",
     "description": "Nutty-sweet notes with a smooth, toasty flavor. Easy-drinking medium roast, 12 oz bag.",
