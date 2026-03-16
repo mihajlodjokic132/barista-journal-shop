@@ -1,0 +1,74 @@
+[
+  {
+    "id": "niche-zero",
+    "title": "Niche Zero Grinder",
+    "description": "Single-dose, zero retention flat burr grinder. The gold standard for home espresso.",
+    "imageURL": "https://placehold.co/600x400/1e1b24/d4845a?text=Niche+Zero",
+    "affiliateURL": "https://example.com/niche-zero",
+    "category": "equipment",
+    "priority": 1
+  },
+  {
+    "id": "linea-mini",
+    "title": "La Marzocco Linea Mini",
+    "description": "Dual boiler, commercial-grade internals in a compact home machine.",
+    "imageURL": "https://placehold.co/600x400/1e1b24/d4845a?text=Linea+Mini",
+    "affiliateURL": "https://example.com/linea-mini",
+    "category": "equipment",
+    "priority": 2
+  },
+  {
+    "id": "acaia-lunar",
+    "title": "Acaia Lunar Scale",
+    "description": "Precision espresso scale with flow-rate timer and Bluetooth connectivity.",
+    "imageURL": "https://placehold.co/600x400/1e1b24/d4845a?text=Acaia+Lunar",
+    "affiliateURL": "https://example.com/acaia-lunar",
+    "category": "equipment",
+    "priority": 3
+  },
+  {
+    "id": "onyx-tropical",
+    "title": "Onyx Tropical Weather",
+    "description": "Ethiopian natural process. Blueberry, jasmine, honey. Perfect for light roast lovers.",
+    "imageURL": "https://placehold.co/600x400/1e1b24/e2b44d?text=Onyx+Tropical",
+    "affiliateURL": "https://example.com/onyx-tropical",
+    "category": "beans",
+    "priority": 1
+  },
+  {
+    "id": "counter-culture-hologram",
+    "title": "Counter Culture Hologram",
+    "description": "Versatile medium roast blend. Chocolate, caramel, citrus. Great all-rounder.",
+    "imageURL": "https://placehold.co/600x400/1e1b24/e2b44d?text=CC+Hologram",
+    "affiliateURL": "https://example.com/cc-hologram",
+    "category": "beans",
+    "priority": 2
+  },
+  {
+    "id": "la-colombe-lyon",
+    "title": "La Colombe Lyon Whole Bean Coffee",
+    "description": "Nutty-sweet notes with a smooth, toasty flavor. Easy-drinking medium roast, 12 oz bag.",
+    "imageURL": "https://m.media-amazon.com/images/I/81yRV5tqgVL._SY879_.jpg",
+    "affiliateURL": "https://a.co/d/0fbPzxpO",
+    "category": "beans",
+    "priority": 3
+  },
+  {
+    "id": "dwts-espresso-cups",
+    "title": "DWTS Espresso Shot Cups (Set of 2)",
+    "description": "4oz borosilicate glass cups with dual pour spouts and handles. Dishwasher safe, perfect for pulling shots.",
+    "imageURL": "https://m.media-amazon.com/images/I/71J9jGzaTyL._AC_SX679_.jpg",
+    "affiliateURL": "https://a.co/d/08dccUUG",
+    "category": "equipment",
+    "priority": 4
+  },
+  {
+    "id": "bj-sticker-pack",
+    "title": "Barista Journal Sticker Pack",
+    "description": "Espresso-themed vinyl stickers for your portafilter, laptop, or water bottle.",
+    "imageURL": "https://placehold.co/600x400/1e1b24/5ebd8a?text=Sticker+Pack",
+    "affiliateURL": "https://example.com/bj-stickers",
+    "category": "merch",
+    "priority": 1
+  }
+]
